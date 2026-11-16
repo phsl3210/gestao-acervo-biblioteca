@@ -2,6 +2,20 @@
 
 Sistema web para uma biblioteca escolar controlar o **acervo**, os **leitores (alunos)** e os **empréstimos**, com leitura de código de barras, relatórios em PDF e avisos por e-mail.
 
+## Telas
+
+![Tela de login](docs/1-login.jpg)
+
+![Início](docs/2-inicio.jpg)
+
+![Acervo](docs/3-acervo.jpg)
+
+![Empréstimos](docs/4-emprestimos.jpg)
+
+![Alunos](docs/5-alunos.jpg)
+
+![Relatórios](docs/6-relatorios.jpg)
+
 ## O que o sistema faz
 
 - **Acervo:** cadastro e consulta de livros.
